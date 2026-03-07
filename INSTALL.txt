@@ -1,0 +1,16 @@
+INSTALLATION INSTRUCTIONS - OCRExtractor
+==========================================
+
+QUICK START
+1. Extract ZIP to any folder
+2. Double-click START_HERE.bat
+3. If Tesseract not installed, run the installer in bin/windows/
+4. Restart START_HERE.bat
+
+TESSERACT OCR
+- Windows: Run bin/windows/tesseract-ocr-w64-setup-5.4.0.20240606.exe
+- macOS: brew install tesseract
+- Linux: sudo apt install tesseract-ocr
+
+MANUAL: pip install -r requirements.txt && python code/ocrextractor.py
+TROUBLESHOOTING: See docs/TROUBLESHOOTING.txt

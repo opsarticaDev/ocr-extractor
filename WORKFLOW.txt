@@ -1,0 +1,7 @@
+OCR EXTRACTOR WORKFLOW
+
+PIPELINE: Image/PDF -> Preprocessing -> OCR Engine -> Text Output
+
+SUPPORTED: PNG, JPG, TIFF, BMP, PDF (scanned and digital)
+OUTPUT: TXT, DOCX, JSON
+LANGUAGES: 100+ via Tesseract language packs

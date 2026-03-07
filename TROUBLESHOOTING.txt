@@ -1,0 +1,19 @@
+TROUBLESHOOTING - OCRExtractor
+
+TESSERACT NOT FOUND
+- Windows: Run installer in bin/windows/
+- macOS: brew install tesseract
+- Linux: sudo apt install tesseract-ocr
+
+LOW ACCURACY
+- Check image quality (300 DPI recommended)
+- Enable preprocessing
+- Try different OCR engine (EasyOCR)
+- Ensure correct language is selected
+
+PDF EXTRACTION FAILS
+- Install pymupdf: pip install pymupdf
+- Check PDF is not password-protected
+
+STILL NOT WORKING?
+- Contact support with OS, Python version, error message

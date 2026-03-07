@@ -1,0 +1,6 @@
+QUICK START - OCRExtractor
+1. LAUNCH: Double-click START_HERE.bat
+2. ADD IMAGE/PDF: Click "Add Files"
+3. SELECT ENGINE: Tesseract (fast) or EasyOCR (accurate)
+4. PROCESS: Click "Extract Text"
+5. RESULTS: Text saved in outputs/

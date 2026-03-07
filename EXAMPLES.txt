@@ -1,0 +1,10 @@
+EXAMPLES - OCRExtractor
+
+EXAMPLE 1: Scan Document to Text
+- Add scanned PDF, select English, extract text to TXT
+
+EXAMPLE 2: Business Card OCR
+- Photograph business card, extract contact info
+
+EXAMPLE 3: Batch PDF Processing
+- Place 50 scanned PDFs in inputs/, batch extract all text

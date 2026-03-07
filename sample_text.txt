@@ -1,0 +1,7 @@
+Place an image with text (PNG, JPG) or a scanned PDF in this folder.
+The OCR tool will extract readable text from the image.
+
+For best results:
+- Use images at 300 DPI or higher
+- Ensure text is not skewed or rotated
+- Use good contrast (dark text on light background)

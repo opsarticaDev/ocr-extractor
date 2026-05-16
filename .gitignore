@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+*.egg
+dist/
+build/
+.pytest_cache/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# OCR Extractor runtime artifacts
+inputs/
+outputs/
+*.ocr.txt
+*.ocr.json
+*.ocr.docx
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store

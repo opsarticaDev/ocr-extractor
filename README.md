@@ -1,12 +1,3 @@
----
-title: OCR Extractor
-tags: []
-type: note
-project: OCRExtractor
-status: tutti
-created: 2026-03-07
-modified: 2026-03-07
----
 # OCR Extractor
 
 Extract text from images and PDFs using OCR (Optical Character Recognition).
